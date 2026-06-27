@@ -1,3 +1,11 @@
+<p>
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TF--IDF-Text%20Similarity-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
 # 🍽 SmartPantry AI
 <p align="center">
   <img src="./smartpantry-banner.png" alt="SmartPantry AI Banner" width="100%">
