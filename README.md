@@ -25,6 +25,73 @@ The system uses Python, Pandas and TF-IDF to analyse ingredients and recommend m
 It also supports nutrition-aware meal planning and personalised recommendations.
 
 ---
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/shahramsharif85/SmartPantry-AI.git
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+## ▶️ Usage
+
+Open the notebook:
+
+```bash
+smartpantry-ai-mvp.ipynb
+```
+
+Run all notebook cells to:
+
+- Load ingredient data
+- Calculate TF-IDF vectors
+- Compute ingredient similarity
+- Generate recipe recommendations
+## 📈 Results
+
+The SmartPantry AI prototype demonstrates that TF-IDF based ingredient similarity can effectively recommend recipes based on available pantry items.
+
+Current capabilities include:
+
+- Ingredient similarity search
+- Recipe recommendation
+- Basic pantry management
+
+Future versions will integrate nutrition analysis and shopping list generation.
+## 🚀 Future Improvements
+
+- Deep Learning recommendation engine
+- Nutrition scoring
+- User authentication
+- Mobile application
+- Barcode scanner
+- GPT-powered recipe generation
+## 📂 Project Structure
+
+```
+SmartPantry-AI/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+├── smartpantry-ai-mvp.ipynb
+├── smartpantry-banner.png
+```
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
 
 ## 🚀 Features
 
