@@ -1,5 +1,7 @@
 # 🍽 SmartPantry AI
-
+<p align="center">
+  <img src="./smartpantry-banner.png" alt="SmartPantry AI Banner" width="100%">
+</p>
 AI-powered Pantry Management & Recipe Recommendation System
 
 ---
