@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 # 🍽 SmartPantry AI
+
+### Intelligent Pantry Management & Recipe Recommendation System
 <p align="center">
   <img src="./smartpantry-banner.png" alt="SmartPantry AI Banner" width="100%">
 </p>
